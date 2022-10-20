@@ -57,7 +57,7 @@ namespace ReizTechHomework
                 Console.WriteLine($"Angle between clock arrows is:\n\n{AngleInDegrees()} degrees\n\nif shown time is: {hours}:{minutes}");
                 Console.WriteLine();
                 Console.WriteLine();
-                Console.WriteLine("press Enter to finish");
+                Console.WriteLine("press Enter to finish \"Clock\"");
                 Console.ReadLine();
         }
             
